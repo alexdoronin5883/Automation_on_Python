@@ -1,0 +1,25 @@
+2023-10-07 01:43:04 INFO ====== WebDriver manager ======
+2023-10-07 01:43:04 INFO Get LATEST chromedriver version for google-chrome
+2023-10-07 01:43:04 INFO Get LATEST chromedriver version for google-chrome
+2023-10-07 01:43:04 INFO There is no [win64] chromedriver "117.0.5938.134" for browser google-chrome "117.0.5938.134" in cache
+2023-10-07 01:43:04 INFO Get LATEST chromedriver version for google-chrome
+2023-10-07 01:43:05 INFO WebDriver version 117.0.5938.149 selected
+2023-10-07 01:43:05 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.149/win32/chromedriver-win32.zip
+2023-10-07 01:43:05 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.149/win32/chromedriver-win32.zip
+2023-10-07 01:43:05 INFO Driver downloading response is 200
+2023-10-07 01:43:05 INFO Get LATEST chromedriver version for google-chrome
+2023-10-07 01:43:05 INFO Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\chromedriver\win64\117.0.5938.134]
+2023-10-07 01:43:07 INFO Task 1 Starting
+2023-10-07 01:43:07 INFO Send 'qwer159' to element login form
+2023-10-07 01:43:08 INFO Send 'd99744d1f8' to element password form
+2023-10-07 01:43:08 INFO Clicked login button
+2023-10-07 01:43:09 INFO Clicked about button
+2023-10-07 01:43:09 INFO test_rest_api Starting
+2023-10-07 01:43:10 INFO Token get successful
+2023-10-07 01:43:11 INFO Get user info successful
+2023-10-07 01:43:12 INFO Token get successful
+2023-10-07 01:43:12 INFO Get user info successful
+2023-10-07 01:43:13 INFO Token get successful
+2023-10-07 01:43:13 INFO Get user info successful
+2023-10-07 01:43:14 INFO Token get successful
+2023-10-07 01:43:15 INFO Get user info successful
