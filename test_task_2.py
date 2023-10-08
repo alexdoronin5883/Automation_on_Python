@@ -3,10 +3,6 @@ import yaml
 from BaseApi import ApiHelper
 
 
-with open('testdata.yaml', encoding='utf-8') as f:
-    testdata = yaml.safe_load(f)
-
-
 
 def test_task_2():
     """
