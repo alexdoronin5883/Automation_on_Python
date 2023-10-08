@@ -1,5 +1,4 @@
 import logging
-import yaml
 from BaseApi import ApiHelper
 
 
