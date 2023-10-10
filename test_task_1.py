@@ -1,3 +1,11 @@
+"""
+С использованием Selenium Webdriver, применяя паттерн проектирования Page Object и сохраняя веб-локаторы 
+в отдельном yaml-файле выполнить следующие тесты в браузере Google Chrome для линукс: 
+- логин на сайт 
+- клик по ссылке About 
+- проверка, что шрифт в заголовке открывшегося окна имеет размер 32 px.
+"""
+
 import logging
 from testpage import OperationsHelper
 import yaml
