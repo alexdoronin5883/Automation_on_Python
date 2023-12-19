@@ -1,10 +1,10 @@
 address: https://test-stand.gb.ru
 browser: chrome
 sleep_time: 1
-login: qwer159
-password: "d99744d1f8"
+login: xxxxxxx
+password: "xxxxxxxxxxx"
 
 url: https://test-stand.gb.ru/gateway/login
 post_address: https://test-stand.gb.ru/api/users/9735
 
-username: "qwer159"
+username: "xxxxxxxx"
