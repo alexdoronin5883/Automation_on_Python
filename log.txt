@@ -10,8 +10,8 @@
 2023-10-07 01:43:05 INFO Get LATEST chromedriver version for google-chrome
 2023-10-07 01:43:05 INFO Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\chromedriver\win64\117.0.5938.134]
 2023-10-07 01:43:07 INFO Task 1 Starting
-2023-10-07 01:43:07 INFO Send 'qwer159' to element login form
-2023-10-07 01:43:08 INFO Send 'd99744d1f8' to element password form
+2023-10-07 01:43:07 INFO Send 'xxxxxxx' to element login form
+2023-10-07 01:43:08 INFO Send 'xxxxxxxxxxx' to element password form
 2023-10-07 01:43:08 INFO Clicked login button
 2023-10-07 01:43:09 INFO Clicked about button
 2023-10-07 01:43:09 INFO test_rest_api Starting
